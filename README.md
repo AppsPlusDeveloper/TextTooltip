@@ -1,8 +1,8 @@
 </br><b>Text-ToolTip</b> Es un sistema que te permitira crear mensajes flotantes utiles para espesificar algún botón de acción.
     </br> </br>
-    
-    <img src="./Preview/preview1.gif" width=300 title="Screen">
-    
+ 
+<img src="./Preview/preview1.gif" width=300 title="Screen">
+
 ## Importación
  
 Agrega el archivo "TextTooltip.java" a tú proyecto.
